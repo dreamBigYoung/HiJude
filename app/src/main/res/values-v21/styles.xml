@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SplashTheme" parent="TestTheme">
+        <!--窗体导航透明-->
+        <item name="android:windowTranslucentNavigation">true</item>
+        <!--状态栏颜色透明-->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+    <style name="HomeTheme" parent="TestTheme">
+        <!--窗体导航透明-->
+        <item name="android:windowTranslucentNavigation">true</item>
+        <!--状态栏颜色透明-->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>

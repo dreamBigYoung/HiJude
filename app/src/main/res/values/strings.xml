@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HiJude</string>
+    <!--底部导航文字-->
+    <array name="bottombarlabel">
+        <item>附近</item>
+        <item>直播</item>
+        <item>会话</item>
+        <item>通讯录</item>
+        <item>个人</item>
+    </array>
+    <!--顶部选择tab的文字-->
+    <array name="near_by">
+        <item>动态</item>
+        <item>人</item>
+        <item>群组</item>
+    </array>
+    <!--title标准模版字符-->
+    <string name="format_title">%1$s(%2$d)</string>
+    <!--contactFragment包含的fragments对应的title-->
+    <array name="contacts_tab">
+        <item>好友</item>
+        <item>关注</item>
+        <item>粉丝</item>
+        <item>群组</item>
+        <item>认证</item>
+    </array>
+</resources>
